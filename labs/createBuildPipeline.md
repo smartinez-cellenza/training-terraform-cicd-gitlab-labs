@@ -9,7 +9,7 @@ Dans ce lab, vous allez créer un pipeline de build.
 
 A l'issu de ce lab, vous pourrez:
 
--   Créer un pipeline Gitlab avec le fichier *.gitlabci.yml*.
+-   Créer un pipeline Gitlab avec le fichier *.gitlab-ci.yml*.
 -   Effectuer des tests lors d'une Merge Request.
 -   Produire un artefact pouvant être déployé dans un pipeline de release.
 
