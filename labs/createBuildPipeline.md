@@ -9,7 +9,7 @@ Dans ce lab, vous allez créer un pipeline de build.
 
 A l'issu de ce lab, vous pourrez:
 
--   Créer un pipeline Gitlab avec le fichier *.gitlabci.yml*.
+-   Créer un pipeline Gitlab avec le fichier *.gitlab-ci.yml*.
 -   Effectuer des tests lors d'une Merge Request.
 -   Produire un artefact pouvant être déployé dans un pipeline de release.
 
@@ -32,7 +32,7 @@ code .
 
 Ajouter un nouveau fichier *.gitlabci.yml* à la racine du dossier.
 
-> Toute la configuration des pipelines se fait à l'intérieur du fichier .gitlabci.yml, hormis des cas spécifiques comme un pipeline schédulé par exemple.
+> Toute la configuration des pipelines se fait à l'intérieur du fichier .gitlab-ci.yml, hormis des cas spécifiques comme un pipeline schédulé par exemple.
 
 A l'intérieur de ce fichier, commencer par renseigner les variables par défaut
 
